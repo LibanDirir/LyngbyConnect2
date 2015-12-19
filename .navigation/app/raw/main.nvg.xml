@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.victormarkkruse.lyngbyconnect2.MapsActivity"/>
+      <point      
+        x = "-256"      
+        y = "0"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.victormarkkruse.lyngbyconnect2.MainActivity"/>
+      <point      
+        x = "884"      
+        y = "4"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.victormarkkruse.lyngbyconnect2.Main2Activity"/>
+      <point      
+        x = "1984"      
+        y = "16"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
